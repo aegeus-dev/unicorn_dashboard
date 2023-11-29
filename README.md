@@ -40,4 +40,4 @@ Network Server can be physically present in MCR ( Main Control Room ) / hosted i
 * [ ] Create Alerts Page
 * [ ] Create Support Page
 
-More details about the Unicorn Web Dashboard Wireframe draft can be found [here](https://docs.google.com/spreadsheets/d/1UmnuujidnFZGSMJuvqTOEfPQROsMgQTvzGXH9GaM3dc/edit#gid=0)
+More details about the Unicorn Web Dashboard Wireframe draft can be found [here](https://github.com/aegeus-dev/unicorn_dashboard/blob/main/References/Docs/Unicorn_Dashboard_Wireframe_Draft.pdf)
