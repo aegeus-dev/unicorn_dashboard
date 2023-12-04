@@ -43,7 +43,7 @@ Network Server can be physically present in MCR ( Main Control Room ) / hosted i
 #### Unicorn Web Dashboard Wireframe draft 
 | Pages | Subpages | Description | Parameters required |
 | :---         |     :---      |          :--- |    :--- |
-| Sign up page ||To Create a Login for the user to login|1.Username<br> 2.Password<br> 3. Name<br> 4. Email<br> 5. Company |
+| Sign up page ||To Create a sign up page for the user to login|1.Username<br> 2.Password<br> 3. Name<br> 4. Email<br> 5. Company |
 | Login page ||To Provide the Login Authentication |1.Username<br> 2.Password|
 | Home page || Summary of the Web Portal is displayed as the dashboard .It will be the landing page |1.Weather Parameters<br> 2. Summary of Online/offline Robots<br> 3. Alerts and Notifications<br> 4. Graphical view of KPI Indicators |
 | Live Data   || Displays the realtime data about the individual Robots along with the timestamp and provision for download the table details as CSV,XLSX,PDF     | 1.Timestamp <br> 2. Robot Id <br>3. Robot Control<br> 4.Robot status feedback<br> 5.Communication Status<br> 6.RFID Data<br> 7.Battery Percentage<br> 8.Current Running Length<br>  9.Total Running Length<br> 10.Robot Stuck Count<br> 11.Cleaning Cycle<br> 12.Current Panels Cleaned<br> 13.Total Panels Cleaned<br> 14.Battery Cycles<br> 15.Device ID<br> 16.Lat,Long<br> 17.TempA<br> 18.Temp1,2,3,4(approx) <br> 19. rain strom alert   |
